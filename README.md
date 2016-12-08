@@ -3,8 +3,8 @@
 
 ### Установка
 
-1. В админке нужно создать поле (см. redmine_timer.jpg)
-![Таймер](/redmine_timer.jpg "Таймер")
+1. В админке нужно создать поле:
+![Таймер](/redmine-timer.jpg "Таймер")
 2. Папку с темой (redmine_timer) скопировать в /themes
 3. В javascripts/theme.js указать API key (//API key) с правами администратора из админки и id поля (//Custom field id)
 4. Включить тему (redmine_timer) в админке Редмайна
