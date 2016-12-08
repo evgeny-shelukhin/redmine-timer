@@ -1,0 +1,20 @@
+/* load the default Redmine stylesheet */
+@import url(../../../stylesheets/application.css);
+
+/* Timer */
+#stopwatch,
+.btn-inline {
+	display: inline-block;
+}
+
+.btn-inline {
+	margin-left: 5px;
+}
+
+.stopwatch_timer_item {
+	margin: 0 5px;
+}
+
+.btn-pause {
+	display: none;
+}
